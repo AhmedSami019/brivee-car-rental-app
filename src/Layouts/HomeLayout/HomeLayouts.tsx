@@ -11,7 +11,7 @@ const HomeLayouts = () => {
                 </nav>
             </header>
 
-            <main>
+            <main className='mt-5 mx-auto px-10'>
                 <Outlet></Outlet>
             </main>
 
